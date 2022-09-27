@@ -55,10 +55,21 @@ Python ‘Matplotlib’.
 A la fin de ce sprint le livrable doit comporter les composantes
 énoncées tout d’abord et ceci comme le montre la *figure* si dessous.
 
-![](media/image1.png)
+![image](https://user-images.githubusercontent.com/32374946/192635923-db9f7cc2-1dfc-43e9-b2fb-fb56936262ef.png)
 
 **2 Réalisation :**
 
-![](media/image2.png)
+![image](https://user-images.githubusercontent.com/32374946/192635996-f8608830-1b03-4f22-a0e3-40ff9131e086.png)
 
-![](media/image3.png)![](media/image4.png)![](media/image5.png)
+![image](https://user-images.githubusercontent.com/32374946/192636062-80e75e25-9954-443b-bb69-cd8b0fc414e7.png)
+
+![image](https://user-images.githubusercontent.com/32374946/192636080-75e24910-abeb-477d-86a2-8edb1e8914b5.png)
+
+![image](https://user-images.githubusercontent.com/32374946/192636111-3a42eaf5-443a-4ca0-9169-65ff9140b17a.png)
+
+
+
+
+
+
+
